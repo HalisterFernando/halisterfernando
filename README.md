@@ -1,5 +1,5 @@
-### Hello there 👋
-
+### Hello there  👋
+### I started to learn how to code by myself, hoping to get a new career on I.T. area.
 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript
