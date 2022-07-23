@@ -12,8 +12,8 @@ Feel free to follow me here or on my social networks, I'll be glad to keep in to
 
 <div align="center">
   <a href="https://github.com/HalisterFernando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HalisterFernando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalisterFernando&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HalisterFernando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalisterFernando&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
