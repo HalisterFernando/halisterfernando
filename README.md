@@ -6,7 +6,7 @@ I love to learn new things, specially when it comes to coding, everyday I get mo
 Feel free to follow me here or on my social networks, I'll be glad to keep in touch!
 
 
-- 🌱 I'm currently learning back-end - How to use Heroku with Docker!
+- 🌱 I'm currently learning back-end - TypeScript OOP!
 
 ##
 
