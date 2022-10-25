@@ -7,7 +7,7 @@ Feel free to follow me here or on my social networks, I'll be glad to keep in to
 
 
 - 🌱 I'm currently learning Computer Science - Python!
-- :muscle: I'd started a weight loss journey in 2021 and managed to lost 50kg so far 
+- :muscle: I'd started a weight loss journey in 2021 putting off 50kg so far 
 
 ##
 
