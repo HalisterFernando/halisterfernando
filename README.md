@@ -6,7 +6,7 @@ I love to learn new things, specially when it comes to coding, everyday I get mo
 Feel free to follow me here or on my social networks, I'll be glad to keep in touch!
 
 
-- 🌱 I'm currently learning Computer Science - Web Scraping with Python!
+- 🌱 I finished web development full-stack course at Trybe 🥳!
 - :muscle: I'd started a weight loss journey in 2021 putting off 50kg so far 
 
 ##
