@@ -7,7 +7,7 @@ Feel free to follow me here or on my social networks, I'll be glad to keep in to
 
 
 - 🌱 I finished web development full-stack course at Trybe 🥳!
-- 📚 I'm currently studying SASS
+- 📚 I'm currently studying CSS Modules - webpack
 - :muscle: I'd started a weight loss journey in 2021 putting off 50kg so far 
 
 ##
