@@ -1,5 +1,5 @@
 ### Hello there  👋
-My name is **Halister Fernando dos Santos**, I'm 32 years old and live in Brazil - Londrina - PR.<br>
+My name is **Halister Fernando dos Santos**, I'm 33 years old and live in Brazil - Londrina - PR.<br>
 I've started learning to code by myself by the beggining of 2021 and by the end of the same year I became a full stack web development student at **Trybe**. <br>
 I'm a cat person and my hobbies are videogames, books, music, cooking, netflix, singing and coding! <br>
 I love to learn new things, specially when it comes to coding, everyday I get more and more fascinated the see how endless are the possibilities in this area! <br>
